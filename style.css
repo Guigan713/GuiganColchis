@@ -1,0 +1,11 @@
+#welcome {
+  background-image: url(pexels-lisa-fotios-1943232.jpg);
+}
+#welcome {
+  font-weight: bold;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
